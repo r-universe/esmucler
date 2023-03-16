@@ -1,0 +1,10 @@
+[
+  {
+    "package": "gdpc",
+    "oncran": true
+  },
+  {
+    "package": "odpc",
+    "oncran": true
+  }
+]
