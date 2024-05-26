@@ -5,6 +5,3 @@
 [submodule "gdpc"]
 	path = gdpc
 	url = https://github.com/esmucler/gdpc
-[submodule "odpc"]
-	path = odpc
-	url = https://github.com/esmucler/odpc
